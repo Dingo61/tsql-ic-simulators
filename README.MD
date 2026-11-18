@@ -113,5 +113,4 @@ streamlit run launcher.py
 ```
 
 
-## License
-MIT License — feel free to fork, modify, and use these simulations in your own articles or experiments.
+feel free to fork, modify, and use these simulations in your own articles or experiments.
